@@ -29,7 +29,8 @@
 ---
 
 ### 🚀 Featured Projects
-- [**TBA**](https://github.com/matissbroks) – TBA
+
+- [**PHP Todo app**](https://github.com/matissbroks/plain-todo-app)
 
 ---
 
