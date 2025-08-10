@@ -31,6 +31,9 @@
 ### 🚀 Featured Projects
 
 - [**PHP Todo app**](https://github.com/matissbroks/plain-todo-app)
+- [**Laravel Todo-App**](https://github.com/matissbroks/laravel-todo-app)
+- [**JS Card game**](https://github.com/matissbroks/js-card-game)
+- [**Quick chat**](https://github.com/matissbroks/quick-chat)
 
 ---
 
