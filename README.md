@@ -48,7 +48,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matīss-broks-356194148)  
 [![Email](https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:copper.tulip2930@eagereverest.com)  
 
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=matissbroks&color=00F7F7&style=flat-square)
-
