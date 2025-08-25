@@ -6,7 +6,8 @@
 ### 👨‍💻 About Me  
 💻 **Full-stack developer** with a love for creative web apps, scalable backend systems, and a sprinkle of game development.  
 🚀 Currently building: **Vue + Express book tracking app**  
-🎯 Goal: Build fun + functional projects while mastering Rocket League mechanics (IRL and in-game 😄 )
+🎯 Goal: Build fun + functional projects while mastering Rocket League mechanics (In-game 😄 and IRL)
+
 ⚡ Fun fact: My game maps are too big for `localStorage`.
 
 ---
