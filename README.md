@@ -56,6 +56,10 @@
 
 ---
 
+![Full stats](https://githubcard.com/matissbroks.svg)
+
+---
+
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matīss-broks-356194148)  
 [![Email](https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:copper.tulip2930@eagereverest.com)  
