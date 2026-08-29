@@ -33,7 +33,7 @@
 |------|------|------|
 | ![PHP](https://img.shields.io/badge/PHP-4/5-red)                 | ![JQuery](https://img.shields.io/badge/JQuery-2.5/5-red)         | ![Ansible](https://img.shields.io/badge/Ansible-0.5/5-red)       |
 | ![Javascript](https://img.shields.io/badge/Javascript-2.7/5-red) | ![VueJS](https://img.shields.io/badge/VueJS-1.5/5-red)           | ![Kubernetes](https://img.shields.io/badge/Kubernetes-0.5/5-red) |
-| ![Python](https://img.shields.io/badge/Python-1.5/5-red)         | ![Svelte](https://img.shields.io/badge/Svelte-0.5/5-red)         | ![Socket.IO](https://img.shields.io/badge/Socket.IO-0.2/5-red)   |
+| ![Python](https://img.shields.io/badge/Python-1.5/5-red)         | ![Svelte](https://img.shields.io/badge/Svelte-1/5-red)         | ![Socket.IO](https://img.shields.io/badge/Socket.IO-0.2/5-red)   |
 | ![Java](https://img.shields.io/badge/Java-1/5-red)               |
 | ![C++](https://img.shields.io/badge/C++-0.5/5-red)               |
 | ![Scala](https://img.shields.io/badge/Scala-1/5-red)             |
